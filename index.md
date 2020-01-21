@@ -1,7 +1,7 @@
 ---
 layout: default
 Title = Test title
-Description
+Description = Test Description
 ---
 
 # My first heading
