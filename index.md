@@ -1,8 +1,3 @@
----
-layout: default
-Title: Group 16 Midterm Review
-Description: Here you will find the pdf for download from the ISLR book
----
 
 # We performed analysis on three main problems:
 - Chapter 6 Question 10 (Linear Model Selection / Regularization)
