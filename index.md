@@ -1,6 +1,7 @@
 
-# We performed analysis on three different problems:
+# Midterm Review
 
+> We performed analysis on three different questions:
 
 - Chapter 6 Question 10 (Linear Model Selection / Regularization)
 - Chapter 7 Question 6 (Polynomial Regression and Step Function)
