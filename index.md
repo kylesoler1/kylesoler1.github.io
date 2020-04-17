@@ -1,3 +1,7 @@
+# Team Project 2
+> Corporación Favorita Grocery Sales Forecasting 
+
+[![Youtube Video Link](https://img.youtube.com/vi/YjtQAE8Dfp4/0.jpg)](https://www.youtube.com/watch?v=YjtQAE8Dfp4)
 
 # Midterm Review
 
