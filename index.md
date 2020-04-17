@@ -3,6 +3,8 @@
 
 [![Youtube Video Link](https://img.youtube.com/vi/YjtQAE8Dfp4/0.jpg)](https://www.youtube.com/watch?v=YjtQAE8Dfp4)
 
+[R File download](Favorita_Analysis.R).
+
 # Midterm Review
 
 > We performed analysis on three different questions:
