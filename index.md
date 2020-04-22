@@ -5,6 +5,13 @@
 
 [R File download](Favorita_Analysis.R).
 
+# Problem Statement:
+Can you improve sales forecasting for items at Corporación Favorita Grocery Stores based on historical data?
+
+The current approach is based heavily on gut instinct. How can we improve this via metrics and analytical approaches?
+
+
+
 # Midterm Review
 
 > We performed analysis on three different questions:
